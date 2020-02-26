@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "segundaAulaAngular"
+    }
+  },
+  "defaultProject": "segundaAulaAngular",
+  "cli": {
+    "analytics": "21230300-af78-4f48-af10-cca3cec7b980"
+  }
 }
